@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    background: url(./google2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 50px;
+}
+.main1{
+  
+ margin-right: 50px;
+;
+    padding: 10px;
+}
+
+.profile1 a{
+    color: white;
+    text-decoration: none;
+    gap: 4px;
+   
+   
+}
+.profile1{
+   display: flex;
+   justify-content: right;
+   gap: 30px;
+   align-items: center;
+}
+.profile1 img{
+    border-radius: 50%;
+    border: solid 1px white;
+    height: 40px;
+    width: 40px;
+}
+.main1 h1{
+text-align: center;
+padding-top: 125px;
+font-size: 100px;
+color: white;
+}
+.main1 input{
+   height: 40px;
+   width: 500px;
+   margin-left: 500px;
+   border-radius: 15px;
+   border: none;
+   margin-top: 20PX;
+}
